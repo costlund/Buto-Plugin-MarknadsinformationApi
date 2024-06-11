@@ -1,0 +1,26 @@
+readme:
+  name: Buto-Plugin-MarknadsinformationApi
+  item:
+    -
+      name: Settings
+    -
+      name: Usage
+    -
+      name: Pages
+      item: {  }
+    -
+      name: Widgets
+      item: {  }
+    -
+      name: Event
+      item: {  }
+    -
+      name: Construct
+      item:
+        -
+          name: __construct
+    -
+      name: Methods
+      item:
+        -
+          name: get
